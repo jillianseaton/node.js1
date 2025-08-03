@@ -1,1 +1,1 @@
-{\n  "name": "node.js1",\n  "version": "1.0.0",\n  "description": "A Node.js project.",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js"\n  },\n  "author": "",\n  "license": "ISC"\n}
+{"name": "node.js1", "version": "1.0.0", "description": "A Node.js project.", "main": "index.js", "scripts": {"start": "node index.js"}, "author": "", "license": "ISC"}
