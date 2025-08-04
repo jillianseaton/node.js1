@@ -1,0 +1,2 @@
+const Stripe = require('stripe');
+const stripe = Stripe('your-stripe-secret-key'); // Replace with your actual secret key
